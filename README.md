@@ -5,12 +5,13 @@ The solution integrates data from multiple CRM and ERP source systems, applies d
 
 The project showcases key Data Engineering and Data Warehousing concepts including:
 
-ETL Development
-Data Quality Management
-Data Cleansing & Standardization
-Dimensional Modeling (Star Schema)
-Fact and Dimension Design
-Medallion Architecture Implementation
+•	ETL Development
+•	Data Quality Management
+•	Data Cleansing & Standardization
+•	Dimensional Modeling (Star Schema)
+•	Fact and Dimension Design
+•	Medallion Architecture Implementation
+
 
 ## Architecture
                 Source Systems
@@ -39,11 +40,11 @@ Medallion Architecture Implementation
 
 ## Technologies Used
 
-Microsoft SQL Server
-T-SQL
-SQL Server Management Studio (SSMS)
-Data Warehousing
-ETL Development
-Medallion Architecture
-Dimensional Modeling
-Star Schema Design
+•	Microsoft SQL Server
+•	T-SQL
+•	SQL Server Management Studio (SSMS)
+•	Data Warehousing
+•	ETL Development
+•	Medallion Architecture
+•	Dimensional Modeling
+
